@@ -1,0 +1,31 @@
+#page-wrap {
+	width: 600px;
+	margin: 0 auto;
+}
+
+h1 {
+	margin: 25px 0;
+	font: 14px Georgia, Serif;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+}
+
+#quiz input {
+	vertical-align: middle;
+}
+
+#quiz h3 {
+	font-size: 18px;
+	margin: 0 0 1px 0;
+	color: #666;
+}
+
+#results {
+	font: 25px Georgia, Serif;
+	text-transform: uppercase;
+}
+
+img {
+	width: 350px;
+	height: 310px;
+}
